@@ -31,3 +31,7 @@ struct CurrencySelectionView: View {
     }
 }
 
+#Preview {
+    CurrencySelectionView(image: .copperpenny, text: "Copper penny")
+}
+
