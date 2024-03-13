@@ -18,5 +18,7 @@ With LORT Currency Converter, users can easily convert values between different 
 - Separate screen for currency selection and for information about the currency rates 
 - Utilized TipKit framework
 
+## Demo
+![Screenshots](https://imgur.com/a/4X1e1Lp)
 
 
